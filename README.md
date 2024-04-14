@@ -66,4 +66,6 @@ DC/DC Converter for 48V Systems with 5V Output:
 ![DCDC-5V-OUT](https://github.com/fabsfuchs/DM03-research/assets/18187994/47afd8e2-712c-4bf1-838e-787115fdb19c)
 
 
+# Wiring
+
 
