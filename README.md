@@ -68,4 +68,4 @@ DC/DC Converter for 48V Systems with 5V Output:
 
 # Wiring
 
-
+![Beschreibung des Bildes](./wiring-CGO600Pro.drawio.svg)
